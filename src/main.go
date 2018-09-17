@@ -7,6 +7,9 @@ import (
 	"calc"
 	"calc/multi"
 	_ "alias"
+	// _ "types"
+	// _ "vars"
+	_ "process"
 )
 
 var myApp = myapp.PkgName() 
